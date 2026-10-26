@@ -1,0 +1,1 @@
+FROM docker.1ms.run/library/node:22 AS builder
